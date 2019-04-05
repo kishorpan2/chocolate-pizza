@@ -1,0 +1,27 @@
+header {
+  height: 100px;
+  border: 1px solid pink;
+}
+
+header nav div:first-child {
+  float: left;
+}
+
+header nav div {
+  border: 1px solid pink;
+}
+
+header nav div h1 {
+  border: 1px solid pink;
+  float: right;
+}
+
+nav li {
+  display: block;
+  float: right;
+}
+
+nav {
+  width: 960px;
+  margin: 0px auto;
+}
