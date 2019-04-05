@@ -1,0 +1,20 @@
+
+header {
+  height: 100px;
+}
+header nav div:first-child{
+   float: left; 
+  
+}
+header nav div h1 {
+float: right;
+}
+
+nav li {
+  float: right;
+  display: block;
+}
+nav {
+  width: 960px;
+  margin: 0px auto;
+}
